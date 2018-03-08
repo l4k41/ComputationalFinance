@@ -1,4 +1,4 @@
-Copyright (c) 2018 [Andreas C. Rapp](https://andreasrapp.net).
+Copyright (c) 2018 [Andreas C. Rapp](http://andreasrapp.net).
 
 Copyright (c) 2017 [Simon A. Broda](http://www.uva.nl/en/profile/b/r/s.a.broda/s.a.broda.html).
 
