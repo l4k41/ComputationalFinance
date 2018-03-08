@@ -1,3 +1,5 @@
+Copyright (c) 2018 [Andreas C. Rapp](https://andreasrapp.net).
+
 Copyright (c) 2017 [Simon A. Broda](http://www.uva.nl/en/profile/b/r/s.a.broda/s.a.broda.html).
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/):
